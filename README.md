@@ -76,8 +76,8 @@ plc_monitor.join()
 |---------|------|----------|
 | D | 数据寄存器 | D100, D200 |
 | M | 辅助继电器 | M0, M100 |
-| X | 输入继电器 | X0, X10 |
-| Y | 输出继电器 | Y0, Y20 |
+| X | 输入继电器 | X0, X0A0 |
+| Y | 输出继电器 | Y0, Y1B0 |
 | SD | 特殊寄存器 | SD100, SD200 |
 | SM | 特殊继电器 | SM100 |
 
@@ -158,7 +158,7 @@ GetPlcData(sPlcIP, nPlcPort, targetElementAddr, targetElementValue,
 
 由[palortix]创建和维护。
 
-- 邮箱: [palortix@ghac.cn](mailto:palortix@ghac.cn)
+- 邮箱: [palortix@ghac.cn](mailto:palortix@163.COM)
 - GitHub: [palortix](https://github.com/palortix)
 
 ## 版本历史
