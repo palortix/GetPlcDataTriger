@@ -1,0 +1,2 @@
+# GetPlcDataTriger
+GetPlcDataTriger
